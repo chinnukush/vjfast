@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://envs.sh/TME.jpg" alt="VJ-Filter-Bot Logo">
-</p>
-<h1 align="center">
-  VJ FILTER BOT
-</h1>
+
 
 
 ## Main Feature 
